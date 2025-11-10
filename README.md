@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-varma-532586286/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mudunuruhamanth@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://hemanthvarma-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Hemanthvarma24"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -104,7 +102,7 @@ I also love building smart apps with **OpenAI API** and **LangChain**, adding in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-varma-532586286/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  
+  <a href="https://hemanthvarma-portfolio.netlify.app/"><img src="https://github.com/Hemanthvarma24/Hemanth-varma/blob/main/assets/profile.png" width="48"/></a>
   <a href="mailto:mudunuruhamanth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://github.com/Hemanthvarma24"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
