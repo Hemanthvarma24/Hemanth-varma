@@ -104,7 +104,7 @@ I also love building smart apps with **OpenAI API** and **LangChain**, adding in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-varma-532586286/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="https://hemanthvarma-portfolio.netlify.app/">  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=person&logoColor=white" width="48" /></a>
+  
   <a href="mailto:mudunuruhamanth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://github.com/Hemanthvarma24"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
