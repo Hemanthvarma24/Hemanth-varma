@@ -30,13 +30,6 @@ I also love building smart apps with **OpenAI API** and **LangChain**, adding in
 
 ---
 
-<!-- 🖼️ Image illustration -->
-<p align="center">
-  <img src="assets/bannergit.jpg" alt="Frontend Developer Illustration" width="700px"/>
-</p>
-
----
-
 <!-- 🛠️ Skills -->
 
 ## 🛠️ Tech Stack
@@ -102,7 +95,6 @@ I also love building smart apps with **OpenAI API** and **LangChain**, adding in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-varma-532586286/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="https://hemanthvarma-portfolio.netlify.app/"><img src="https://github.com/Hemanthvarma24/Hemanth-varma/blob/main/assets/profile.png" width="48"/></a>
   <a href="mailto:mudunuruhamanth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
   <a href="https://github.com/Hemanthvarma24"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
